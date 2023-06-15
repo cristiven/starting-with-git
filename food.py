@@ -1,0 +1,1 @@
+food = ['cucumber', 'onion', 'meat', 'bacon', 'pasta']
